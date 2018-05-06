@@ -4,7 +4,7 @@
    "email":"johndoe@example.com",
    "groupId":1159,
    "group":"Tech",
-   "profileUrl":"https://raw.githubusercontent.com/filippella/Sample-API-Files/master/avatar_johndoe.png",
+   "profileUrl":"https://github.com/filippella/Sample-API-Files/blob/master/images/avatars/avatar_johndoe.png",
    "isOnline":false,
    "arrived":"2018-02-05 10:46:04",
    "left":"2018-02-05 17:56:48",
