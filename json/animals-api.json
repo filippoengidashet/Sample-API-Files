@@ -1,0 +1,3474 @@
+[
+    {
+        "letter": "A",
+        "animals": [
+            {
+                "name": "Aardvark",
+                "picture": "aardvark.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/aardvark.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Abyssinian",
+                "picture": "abyssinian.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/abyssinian.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Adelie penguin",
+                "picture": "adelie_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/adelie_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Affenpinscher dog",
+                "picture": "affenpinscher_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/affenpinscher_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Afghan hound",
+                "picture": "afghan_hound.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/afghan_hound.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African bush elephant",
+                "picture": "african_bush_elephant.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_bush_elephant.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African civet",
+                "picture": "african_civet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_civet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African clawed frog",
+                "picture": "african_clawed_frog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_clawed_frog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African elephant",
+                "picture": "african_elephant.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_elephant.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African palm civet",
+                "picture": "african_palm_civet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_palm_civet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African penguin",
+                "picture": "african_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African tree toad",
+                "picture": "african_tree_toad.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_tree_toad.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "African wild dog",
+                "picture": "african_wild_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/african_wild_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ainu dog",
+                "picture": "ainu_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/ainu_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Airedale terrier",
+                "picture": "airedale_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/airedale_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Akbash dog",
+                "picture": "akbash_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/akbash_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Akita dog",
+                "picture": "akita_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/akita_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Alaskan malamute",
+                "picture": "alaskan_malamute6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/alaskan_malamute6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Albatross",
+                "picture": "albatross3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/albatross3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Aldabra giant tortoise",
+                "picture": "aldabra_giant_tortoise5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/aldabra_giant_tortoise5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Alligator",
+                "picture": "alligator6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/alligator6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Alpine dachsbracke",
+                "picture": "alpine_dachsbracke1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/alpine_dachsbracke1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American bulldog",
+                "picture": "american_bulldog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_bulldog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American cocker spaniel",
+                "picture": "american_cocker_spaniel1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_cocker_spaniel1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American coonhound",
+                "picture": "american_coonhound2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_coonhound2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American eskimo dog",
+                "picture": "american_eskimo_dog3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_eskimo_dog3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American foxhound",
+                "picture": "american_foxhound2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_foxhound2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American pit bull terrier",
+                "picture": "american_pit_bull_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_pit_bull_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American staffordshire terrier",
+                "picture": "american_staffordshire_terrier2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_staffordshire_terrier2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "American water spaniel",
+                "picture": "american_water_spaniel1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/american_water_spaniel1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Anatolian shepherd dog",
+                "picture": "anatolian_shepherd_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/anatolian_shepherd_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Angelfish",
+                "picture": "angelfish11.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/angelfish11.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ant",
+                "picture": "ant.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/ant.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Anteater",
+                "picture": "anteater3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/anteater3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Antelope",
+                "picture": "antelope3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/antelope3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Appenzeller dog",
+                "picture": "appenzeller_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/appenzeller_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Arctic fox",
+                "picture": "arctic_fox10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/arctic_fox10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Arctic hare",
+                "picture": "arctic_hare1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/arctic_hare1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Arctic wolf",
+                "picture": "arctic_wolf2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/arctic_wolf2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Armadillo",
+                "picture": "armadillo.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/armadillo.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Asian black bear",
+                "picture": "asian_black_bear5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/asian_black_bear5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Asian elephant",
+                "picture": "asian_elephant3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/asian_elephant3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Asian giant hornet",
+                "picture": "asian_giant_hornet4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/asian_giant_hornet4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Asian palm civet",
+                "picture": "asian_palm_civet2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/asian_palm_civet2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Australian cattle dog",
+                "picture": "australian_cattle_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/australian_cattle_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Australian kelpie dog",
+                "picture": "australian_kelpie_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/australian_kelpie_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Australian mist",
+                "picture": "australian_mist1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/australian_mist1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Australian shepherd",
+                "picture": "australian_shepherd1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/australian_shepherd1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Australian terrier",
+                "picture": "australian_terrier1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/australian_terrier1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Avocet",
+                "picture": "avocet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/avocet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Axolotl",
+                "picture": "axolotl6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/axolotl6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Aye aye ",
+                "picture": "aye_aye_.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/A/aye_aye_.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "B",
+        "animals": [
+            {
+                "name": "Baboon",
+                "picture": "baboon3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/baboon3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bactrian camel",
+                "picture": "bactrian_camel2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bactrian_camel2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Badger",
+                "picture": "badger2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/badger2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Balinese",
+                "picture": "balinese4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/balinese4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Banded palm civet",
+                "picture": "banded_palm_civet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/banded_palm_civet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bandicoot",
+                "picture": "bandicoot.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bandicoot.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Barb",
+                "picture": "barb3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/barb3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Barn owl",
+                "picture": "barn_owl1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/barn_owl1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Barnacle",
+                "picture": "barnacle2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/barnacle2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Barracuda",
+                "picture": "barracuda4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/barracuda4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Basenji dog",
+                "picture": "basenji_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/basenji_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Basking shark",
+                "picture": "basking_shark.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/basking_shark.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Basset hound",
+                "picture": "basset_hound1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/basset_hound1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bat",
+                "picture": "bat4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bat4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bavarian mountain hound",
+                "picture": "bavarian_mountain_hound3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bavarian_mountain_hound3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Beagle",
+                "picture": "beagle1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/beagle1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bear",
+                "picture": "bear2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bear2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bearded collie",
+                "picture": "bearded_collie4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bearded_collie4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Beaver",
+                "picture": "beaver3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/beaver3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bedlington terrier",
+                "picture": "bedlington_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bedlington_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Beetle",
+                "picture": "beetle.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/beetle.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bengal tiger",
+                "picture": "bengal_tiger4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bengal_tiger4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bernese mountain dog",
+                "picture": "bernese_mountain_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bernese_mountain_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bichon frise",
+                "picture": "bichon_frise2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bichon_frise2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Binturong",
+                "picture": "binturong.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/binturong.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bird",
+                "picture": "bird17.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bird17.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Birds of paradise",
+                "picture": "birds_of_paradise3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/birds_of_paradise3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Birman",
+                "picture": "birman2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/birman2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bison",
+                "picture": "bison3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bison3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Black bear",
+                "picture": "black_bear.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/black_bear.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Black rhinoceros",
+                "picture": "black_rhinoceros1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/black_rhinoceros1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Black russian terrier",
+                "picture": "black_russian_terrier1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/black_russian_terrier1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Black widow spider",
+                "picture": "black_widow_spider5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/black_widow_spider5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bloodhound",
+                "picture": "bloodhound2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bloodhound2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Blue lacy dog",
+                "picture": "blue_lacy_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/blue_lacy_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Blue whale",
+                "picture": "blue_whale6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/blue_whale6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bluetick coonhound",
+                "picture": "bluetick_coonhound.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bluetick_coonhound.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bobcat ",
+                "picture": "bobcat_10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bobcat_10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bolognese dog",
+                "picture": "bolognese_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bolognese_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bombay",
+                "picture": "bombay2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bombay2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bongo",
+                "picture": "bongo2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bongo2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bonobo",
+                "picture": "bonobo7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bonobo7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Booby",
+                "picture": "booby3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/booby3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Border collie",
+                "picture": "border_collie2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/border_collie2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Border terrier",
+                "picture": "border_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/border_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bornean orang-utan",
+                "picture": "bornean_orang-utan1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bornean_orang-utan1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Borneo elephant",
+                "picture": "borneo_elephant.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/borneo_elephant.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Boston terrier",
+                "picture": "boston_terrier4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/boston_terrier4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bottle nosed dolphin",
+                "picture": "bottle_nosed_dolphin3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bottle_nosed_dolphin3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Boxer dog",
+                "picture": "boxer_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/boxer_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Boykin spaniel",
+                "picture": "boykin_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/boykin_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Brazilian terrier",
+                "picture": "brazilian_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/brazilian_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Brown bear",
+                "picture": "brown_bear2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/brown_bear2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Budgerigar",
+                "picture": "budgerigar9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/budgerigar9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Buffalo",
+                "picture": "buffalo2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/buffalo2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bull mastiff",
+                "picture": "bull_mastiff.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bull_mastiff.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bull shark",
+                "picture": "bull_shark1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bull_shark1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bull terrier",
+                "picture": "bull_terrier3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bull_terrier3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bulldog",
+                "picture": "bulldog3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bulldog3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bullfrog",
+                "picture": "bullfrog4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bullfrog4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Bumble bee",
+                "picture": "bumble_bee4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/bumble_bee4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Burmese",
+                "picture": "burmese2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/burmese2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Burrowing frog",
+                "picture": "burrowing_frog2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/burrowing_frog2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Butterfly",
+                "picture": "butterfly12.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/butterfly12.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Butterfly fish",
+                "picture": "butterfly_fish5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/butterfly_fish5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dragon",
+                "picture": "dragon3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/B/dragon3.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "C",
+        "animals": [
+            {
+                "name": "Caiman",
+                "picture": "caiman5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/caiman5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Caiman lizard",
+                "picture": "caiman_lizard3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/caiman_lizard3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cairn terrier",
+                "picture": "cairn_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cairn_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Camel",
+                "picture": "camel2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/camel2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Canaan dog",
+                "picture": "canaan_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/canaan_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Capybara",
+                "picture": "capybara.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/capybara.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Caracal",
+                "picture": "caracal5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/caracal5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Carolina dog",
+                "picture": "carolina_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/carolina_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cassowary",
+                "picture": "cassowary1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cassowary1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cat ",
+                "picture": "cat_14.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cat_14.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Caterpillar",
+                "picture": "caterpillar10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/caterpillar10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Catfish",
+                "picture": "catfish.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/catfish.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cavalier king charles spaniel",
+                "picture": "cavalier_king_charles_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cavalier_king_charles_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Centipede",
+                "picture": "centipede7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/centipede7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cesky fousek",
+                "picture": "cesky_fousek.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cesky_fousek.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chameleon",
+                "picture": "chameleon3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chameleon3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chamois",
+                "picture": "chamois8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chamois8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cheetah",
+                "picture": "cheetah1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cheetah1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chesapeake bay retriever",
+                "picture": "chesapeake_bay_retriever.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chesapeake_bay_retriever.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chicken",
+                "picture": "chicken.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chicken.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chihuahua",
+                "picture": "chihuahua.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chihuahua.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chimpanzee",
+                "picture": "chimpanzee1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chimpanzee1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chinchilla",
+                "picture": "chinchilla2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chinchilla2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chinese crested dog",
+                "picture": "chinese_crested_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chinese_crested_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chinook",
+                "picture": "chinook.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chinook.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chinstrap penguin",
+                "picture": "chinstrap_penguin3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chinstrap_penguin3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chipmunk",
+                "picture": "chipmunk6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chipmunk6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Chow chow",
+                "picture": "chow_chow1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/chow_chow1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cichlid",
+                "picture": "cichlid9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cichlid9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Clouded leopard",
+                "picture": "clouded_leopard1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/clouded_leopard1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Clown",
+                "picture": "clown3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/clown3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Clumber spaniel",
+                "picture": "clumber_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/clumber_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Coati",
+                "picture": "coati5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/coati5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cockroach",
+                "picture": "cockroach3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cockroach3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Collared peccary",
+                "picture": "collared_peccary.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/collared_peccary.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Collie",
+                "picture": "collie.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/collie.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Common buzzard",
+                "picture": "common_buzzard2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/common_buzzard2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Common frog",
+                "picture": "common_frog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/common_frog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Common loon",
+                "picture": "common_loon8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/common_loon8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Common toad",
+                "picture": "common_toad7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/common_toad7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Coral",
+                "picture": "coral10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/coral10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cottontop tamarin",
+                "picture": "cottontop_tamarin3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cottontop_tamarin3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cougar",
+                "picture": "cougar.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cougar.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cow",
+                "picture": "cow11.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cow11.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Coyote",
+                "picture": "coyote1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/coyote1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Crab-eating macaque",
+                "picture": "crab-eating_macaque.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/crab-eating_macaque.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Crab",
+                "picture": "crab6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/crab6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Crane",
+                "picture": "crane1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/crane1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Crested penguin",
+                "picture": "crested_penguin1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/crested_penguin1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Crocodile",
+                "picture": "crocodile6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/crocodile6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cross river gorilla",
+                "picture": "cross_river_gorilla.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cross_river_gorilla.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Curly coated retriever",
+                "picture": "curly_coated_retriever1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/curly_coated_retriever1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cuscus",
+                "picture": "cuscus5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cuscus5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Cuttlefish",
+                "picture": "cuttlefish3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/C/cuttlefish3.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "D",
+        "animals": [
+            {
+                "name": "Dachshund",
+                "picture": "dachshund.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dachshund.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dalmation",
+                "picture": "dalmation1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dalmation1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Darwins frog",
+                "picture": "darwins_frog2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/darwins_frog2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Deer",
+                "picture": "deer.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/deer.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Desert tortoise",
+                "picture": "desert_tortoise.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/desert_tortoise.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Deutsche bracke",
+                "picture": "deutsche_bracke.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/deutsche_bracke.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dhole",
+                "picture": "dhole.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dhole.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dingo",
+                "picture": "dingo1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dingo1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Discus",
+                "picture": "discus1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/discus1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Doberman pinscher",
+                "picture": "doberman_pinscher3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/doberman_pinscher3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dodo",
+                "picture": "dodo.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dodo.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dog",
+                "picture": "dog5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dog5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dogo argentino ",
+                "picture": "dogo_argentino_2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dogo_argentino_2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dogue de bordeaux",
+                "picture": "dogue_de_bordeaux.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dogue_de_bordeaux.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dolphin",
+                "picture": "dolphin2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dolphin2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Donkey",
+                "picture": "donkey3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/donkey3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dormouse",
+                "picture": "dormouse3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dormouse3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dragonfly",
+                "picture": "dragonfly.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dragonfly.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Drever",
+                "picture": "drever.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/drever.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Duck",
+                "picture": "duck4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/duck4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dugong",
+                "picture": "dugong3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dugong3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dunker",
+                "picture": "dunker.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dunker.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dusky dolphin",
+                "picture": "dusky_dolphin7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dusky_dolphin7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Dwarf crocodile",
+                "picture": "dwarf_crocodile1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/D/dwarf_crocodile1.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "E",
+        "animals": [
+            {
+                "name": "African elephant",
+                "picture": "african_elephant.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/african_elephant.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Eagle",
+                "picture": "eagle1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/eagle1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Earwig ",
+                "picture": "earwig_3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/earwig_3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Eastern gorilla",
+                "picture": "eastern_gorilla.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/eastern_gorilla.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Eastern lowland gorilla",
+                "picture": "eastern_lowland_gorilla.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/eastern_lowland_gorilla.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Echidna",
+                "picture": "echidna7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/echidna7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Edible frog",
+                "picture": "edible_frog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/edible_frog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Egyptian mau",
+                "picture": "egyptian_mau2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/egyptian_mau2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Electric eel",
+                "picture": "electric_eel3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/electric_eel3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Elephant seal",
+                "picture": "elephant_seal.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/elephant_seal.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Elephant shrew",
+                "picture": "elephant_shrew.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/elephant_shrew.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Emperor penguin",
+                "picture": "emperor_penguin3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/emperor_penguin3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Emperor tamarin",
+                "picture": "emperor_tamarin1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/emperor_tamarin1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Emu",
+                "picture": "emu1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/emu1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "English cocker spaniel",
+                "picture": "english_cocker_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/english_cocker_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "English shepherd",
+                "picture": "english_shepherd1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/english_shepherd1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "English springer spaniel",
+                "picture": "english_springer_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/english_springer_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Entlebucher mountain dog",
+                "picture": "entlebucher_mountain_dog2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/entlebucher_mountain_dog2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Epagneul pont audemer",
+                "picture": "epagneul_pont_audemer.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/epagneul_pont_audemer.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Eskimo dog",
+                "picture": "eskimo_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/eskimo_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Estrela mountain dog",
+                "picture": "estrela_mountain_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/E/estrela_mountain_dog.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "F",
+        "animals": [
+            {
+                "name": "Falcon",
+                "picture": "falcon1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/falcon1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fennec fox",
+                "picture": "fennec_fox3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fennec_fox3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ferret",
+                "picture": "ferret5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/ferret5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Field spaniel",
+                "picture": "field_spaniel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/field_spaniel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fin whale",
+                "picture": "fin_whale4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fin_whale4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Finnish sptiz",
+                "picture": "finnish_sptiz.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/finnish_sptiz.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fire-bellied toad",
+                "picture": "fire-bellied_toad4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fire-bellied_toad4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fish",
+                "picture": "fish8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fish8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fishing cat",
+                "picture": "fishing_cat3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fishing_cat3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Flamingo",
+                "picture": "flamingo6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/flamingo6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Flat coat retriever",
+                "picture": "flat_coat_retriever.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/flat_coat_retriever.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Flounder",
+                "picture": "flounder.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/flounder.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fly",
+                "picture": "fly.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fly.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Flying squirrel",
+                "picture": "flying_squirrel3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/flying_squirrel3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fossa",
+                "picture": "fossa3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fossa3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fox",
+                "picture": "fox3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fox3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fox terrier",
+                "picture": "fox_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fox_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "French bulldog",
+                "picture": "french_bulldog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/french_bulldog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Frigatebird",
+                "picture": "frigatebird1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/frigatebird1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Frilled lizard",
+                "picture": "frilled_lizard.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/frilled_lizard.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Frog",
+                "picture": "frog4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/frog4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Fur seal",
+                "picture": "fur_seal.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/F/fur_seal.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "G",
+        "animals": [
+            {
+                "name": "Galapagos penguin",
+                "picture": "galapagos_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/galapagos_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Galapagos tortoise",
+                "picture": "galapagos_tortoise3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/galapagos_tortoise3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gar",
+                "picture": "gar1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gar1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gecko",
+                "picture": "gecko8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gecko8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Geese",
+                "picture": "geese3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/geese3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gentoo penguin",
+                "picture": "gentoo_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gentoo_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Geoffroys tamarin",
+                "picture": "geoffroys_tamarin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/geoffroys_tamarin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gerbil",
+                "picture": "gerbil3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gerbil3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "German pinscher",
+                "picture": "german_pinscher.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/german_pinscher.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "German shepherd",
+                "picture": "german_shepherd.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/german_shepherd.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gharial",
+                "picture": "gharial4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gharial4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Giant african land snail",
+                "picture": "giant_african_land_snail.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/giant_african_land_snail.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Giant clam",
+                "picture": "giant_clam6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/giant_clam6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Giant panda bear",
+                "picture": "giant_panda_bear.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/giant_panda_bear.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Giant schauzer",
+                "picture": "giant_schauzer.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/giant_schauzer.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gibbon",
+                "picture": "gibbon6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gibbon6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gila monster",
+                "picture": "gila_monster5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gila_monster5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Giraffe ",
+                "picture": "giraffe_10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/giraffe_10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Glass lizard",
+                "picture": "glass_lizard.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/glass_lizard.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Glow worm",
+                "picture": "glow_worm2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/glow_worm2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Goat",
+                "picture": "goat1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/goat1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Golden lion tamarin",
+                "picture": "golden_lion_tamarin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/golden_lion_tamarin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Golden oriole",
+                "picture": "golden_oriole.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/golden_oriole.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Golden retriever",
+                "picture": "golden_retriever.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/golden_retriever.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gopher ",
+                "picture": "gopher_4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gopher_4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Gorilla",
+                "picture": "gorilla4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/gorilla4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grasshopper",
+                "picture": "grasshopper8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grasshopper8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Great dane",
+                "picture": "great_dane.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/great_dane.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Greater swiss mountain dog",
+                "picture": "greater_swiss_mountain_dog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/greater_swiss_mountain_dog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Green bee-eater",
+                "picture": "green_bee-eater2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/green_bee-eater2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Greenland dog",
+                "picture": "greenland_dog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/greenland_dog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grey mouse lemur",
+                "picture": "grey_mouse_lemur4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grey_mouse_lemur4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grey reef shark",
+                "picture": "grey_reef_shark5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grey_reef_shark5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grey seal",
+                "picture": "grey_seal3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grey_seal3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Greyhound",
+                "picture": "greyhound.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/greyhound.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grizzly bear",
+                "picture": "grizzly_bear1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grizzly_bear1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Grouse",
+                "picture": "grouse3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/grouse3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Guinea fowl",
+                "picture": "guinea_fowl2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/guinea_fowl2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Guinea pig",
+                "picture": "guinea_pig1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/guinea_pig1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Guppy",
+                "picture": "guppy3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/guppy3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "White shark",
+                "picture": "white_shark2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/G/white_shark2.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "H",
+        "animals": [
+            {
+                "name": "Hammerhead shark",
+                "picture": "hammerhead_shark.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hammerhead_shark.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hamster",
+                "picture": "hamster3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hamster3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hare",
+                "picture": "hare7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hare7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Harrier",
+                "picture": "harrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/harrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Havanese",
+                "picture": "havanese.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/havanese.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hedgehog",
+                "picture": "hedgehog2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hedgehog2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hercules beetle",
+                "picture": "hercules_beetle1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hercules_beetle1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hermit crab",
+                "picture": "hermit_crab1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hermit_crab1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Heron",
+                "picture": "heron.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/heron.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Highland cattle",
+                "picture": "highland_cattle7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/highland_cattle7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Himalayan",
+                "picture": "himalayan2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/himalayan2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hippo",
+                "picture": "hippo4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hippo4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Honey bee",
+                "picture": "honey_bee.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/honey_bee.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Horn shark",
+                "picture": "horn_shark6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/horn_shark6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Horned frog",
+                "picture": "horned_frog2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/horned_frog2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Horse",
+                "picture": "horse4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/horse4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Horseshoe crab",
+                "picture": "horseshoe_crab1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/horseshoe_crab1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Howler monkey",
+                "picture": "howler_monkey4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/howler_monkey4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Human",
+                "picture": "human2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/human2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Humboldt penguin",
+                "picture": "humboldt_penguin6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/humboldt_penguin6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hummingbird",
+                "picture": "hummingbird8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hummingbird8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Humpback whale",
+                "picture": "humpback_whale4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/humpback_whale4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Hyena",
+                "picture": "hyena1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/H/hyena1.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "I",
+        "animals": [
+            {
+                "name": "Ibis",
+                "picture": "ibis1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/ibis1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ibizan hound",
+                "picture": "ibizan_hound.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/ibizan_hound.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Iguana",
+                "picture": "iguana4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/iguana4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Impala",
+                "picture": "impala4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/impala4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indian elephant",
+                "picture": "indian_elephant2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indian_elephant2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indian palm squirrel",
+                "picture": "indian_palm_squirrel9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indian_palm_squirrel9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indian rhinoceros",
+                "picture": "indian_rhinoceros3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indian_rhinoceros3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indian star tortoise",
+                "picture": "indian_star_tortoise.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indian_star_tortoise.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indochinese tiger",
+                "picture": "indochinese_tiger.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indochinese_tiger.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Indri ",
+                "picture": "indri_8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/indri_8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Insects",
+                "picture": "insects3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/insects3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Irish setter",
+                "picture": "irish_setter.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/irish_setter.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Irish wolfhound",
+                "picture": "irish_wolfhound.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/I/irish_wolfhound.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "J",
+        "animals": [
+            {
+                "name": "Jack russel",
+                "picture": "jack_russel.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/jack_russel.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Jackal",
+                "picture": "jackal1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/jackal1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Jaguar",
+                "picture": "jaguar6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/jaguar6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Japanese chin",
+                "picture": "japanese_chin1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/japanese_chin1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Japanese macaque ",
+                "picture": "japanese_macaque_9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/japanese_macaque_9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Javan rhinoceros",
+                "picture": "javan_rhinoceros.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/javan_rhinoceros.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Javanese",
+                "picture": "javanese.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/javanese.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Jellyfish",
+                "picture": "jellyfish4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/J/jellyfish4.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "K",
+        "animals": [
+            {
+                "name": "Kakapo",
+                "picture": "kakapo3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/kakapo3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Kangaroo",
+                "picture": "kangaroo3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/kangaroo3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Keel billed toucan",
+                "picture": "keel_billed_toucan2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/keel_billed_toucan2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Killer whale",
+                "picture": "killer_whale4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/killer_whale4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "King crab",
+                "picture": "king_crab1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/king_crab1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "King penguin",
+                "picture": "king_penguin1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/king_penguin1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Kingfisher",
+                "picture": "kingfisher.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/kingfisher.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Kiwi",
+                "picture": "kiwi4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/kiwi4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Koala",
+                "picture": "koala9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/koala9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Komodo dragon",
+                "picture": "komodo_dragon.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/komodo_dragon.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Kudu",
+                "picture": "kudu5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/K/kudu5.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "L",
+        "animals": [
+            {
+                "name": "Labradoodle",
+                "picture": "labradoodle4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/labradoodle4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Labrador retriever",
+                "picture": "labrador_retriever1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/labrador_retriever1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ladybird",
+                "picture": "ladybird.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/ladybird.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Leaf-tailed gecko",
+                "picture": "leaf-tailed_gecko3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/leaf-tailed_gecko3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lemmings",
+                "picture": "lemmings.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lemmings.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lemur",
+                "picture": "lemur2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lemur2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Leopard",
+                "picture": "leopard2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/leopard2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Leopard cat",
+                "picture": "leopard_cat3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/leopard_cat3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Leopard seal",
+                "picture": "leopard_seal2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/leopard_seal2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Leopard tortoise",
+                "picture": "leopard_tortoise5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/leopard_tortoise5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Liger",
+                "picture": "liger7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/liger7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lion",
+                "picture": "lion1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lion1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lionfish",
+                "picture": "lionfish.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lionfish.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Little penguin",
+                "picture": "little_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/little_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lizard",
+                "picture": "lizard4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lizard4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Llama",
+                "picture": "llama6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/llama6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lobster",
+                "picture": "lobster2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lobster2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Long-eared owl",
+                "picture": "long-eared_owl2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/long-eared_owl2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Lynx",
+                "picture": "lynx13.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/L/lynx13.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "M",
+        "animals": [
+            {
+                "name": "Macaroni penguin",
+                "picture": "macaroni_penguin3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/macaroni_penguin3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Macaw",
+                "picture": "macaw7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/macaw7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Magellanic penguin",
+                "picture": "magellanic_penguin7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/magellanic_penguin7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Magpie",
+                "picture": "magpie3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/magpie3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Maine coon",
+                "picture": "maine_coon3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/maine_coon3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Malayan civet",
+                "picture": "malayan_civet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/malayan_civet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Malayan tiger",
+                "picture": "malayan_tiger2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/malayan_tiger2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Maltese",
+                "picture": "maltese.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/maltese.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Manatee",
+                "picture": "manatee4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/manatee4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Mandrill",
+                "picture": "mandrill5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/mandrill5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Manta ray",
+                "picture": "manta_ray5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/manta_ray5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Marine toad",
+                "picture": "marine_toad2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/marine_toad2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Markhor",
+                "picture": "markhor.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/markhor.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Marsh frog",
+                "picture": "marsh_frog5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/marsh_frog5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Masked palm civet",
+                "picture": "masked_palm_civet1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/masked_palm_civet1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Mastiff",
+                "picture": "mastiff.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/mastiff.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Mayfly",
+                "picture": "mayfly1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/mayfly1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Meerkat ",
+                "picture": "meerkat_11.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/M/meerkat_11.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "N",
+        "animals": [
+            {
+                "name": "Neanderthal",
+                "picture": "neanderthal.png",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/neanderthal.png",
+                "description": "to-change"
+            },
+            {
+                "name": "Neapolitan mastiff",
+                "picture": "neapolitan_mastiff1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/neapolitan_mastiff1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Newfoundland",
+                "picture": "newfoundland3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/newfoundland3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Newt",
+                "picture": "newt1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/newt1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Nightingale",
+                "picture": "nightingale1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/nightingale1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Norfolk terrier",
+                "picture": "norfolk_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/norfolk_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Norwegian forest",
+                "picture": "norwegian_forest.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/norwegian_forest.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Numbat",
+                "picture": "numbat2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/numbat2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Nurse shark",
+                "picture": "nurse_shark3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/N/nurse_shark3.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "O",
+        "animals": [
+            {
+                "name": "Ocelot",
+                "picture": "ocelot.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/ocelot.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Octopus",
+                "picture": "octopus1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/octopus1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Okapi",
+                "picture": "okapi.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/okapi.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Old english sheepdog",
+                "picture": "old_english_sheepdog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/old_english_sheepdog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Olm",
+                "picture": "olm1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/olm1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Opossum",
+                "picture": "opossum2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/opossum2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Orang-utan",
+                "picture": "orang-utan.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/orang-utan.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ostrich ",
+                "picture": "ostrich_7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/ostrich_7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Otter",
+                "picture": "otter2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/otter2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Oyster",
+                "picture": "oyster.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/O/oyster.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "P",
+        "animals": [
+            {
+                "name": "Pademelon",
+                "picture": "pademelon.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pademelon.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Panther",
+                "picture": "panther.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/panther.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Parrot",
+                "picture": "parrot.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/parrot.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Patas monkey",
+                "picture": "patas_monkey7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/patas_monkey7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Peacock",
+                "picture": "peacock7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/peacock7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pekingese",
+                "picture": "pekingese4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pekingese4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pelican",
+                "picture": "pelican1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pelican1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Penguin",
+                "picture": "penguin5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/penguin5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Persian",
+                "picture": "persian4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/persian4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pheasant",
+                "picture": "pheasant8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pheasant8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pied tamarin",
+                "picture": "pied_tamarin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pied_tamarin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pig",
+                "picture": "pig.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pig.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pika",
+                "picture": "pika3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pika3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pike",
+                "picture": "pike1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pike1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pink fairy armadillo",
+                "picture": "pink_fairy_armadillo.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pink_fairy_armadillo.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Piranha",
+                "picture": "piranha3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/piranha3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Platypus",
+                "picture": "platypus2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/platypus2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pointer",
+                "picture": "pointer.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pointer.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Poison dart frog",
+                "picture": "poison_dart_frog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/poison_dart_frog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Polar bear",
+                "picture": "polar_bear.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/polar_bear.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pond skater",
+                "picture": "pond_skater.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pond_skater.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Poodle",
+                "picture": "poodle.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/poodle.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pool frog",
+                "picture": "pool_frog.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pool_frog.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Porcupine",
+                "picture": "porcupine2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/porcupine2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Possum",
+                "picture": "possum.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/possum.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Prawn",
+                "picture": "prawn1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/prawn1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Proboscis monkey",
+                "picture": "proboscis_monkey1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/proboscis_monkey1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Puffer fish",
+                "picture": "puffer_fish4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/puffer_fish4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Puffin ",
+                "picture": "puffin_6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/puffin_6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pug",
+                "picture": "pug.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pug.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Puma",
+                "picture": "puma6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/puma6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Purple emperor",
+                "picture": "purple_emperor5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/purple_emperor5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Puss moth",
+                "picture": "puss_moth.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/puss_moth.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pygmy hippopotamus",
+                "picture": "pygmy_hippopotamus1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pygmy_hippopotamus1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Pygmy marmoset",
+                "picture": "pygmy_marmoset.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/P/pygmy_marmoset.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "Q",
+        "animals": [
+            {
+                "name": "Quail",
+                "picture": "quail.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Q/quail.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Quetzal",
+                "picture": "quetzal4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Q/quetzal4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Quokka",
+                "picture": "quokka2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Q/quokka2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Quoll",
+                "picture": "quoll4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Q/quoll4.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "R",
+        "animals": [
+            {
+                "name": "Rabbit",
+                "picture": "rabbit6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rabbit6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Raccoon",
+                "picture": "raccoon9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/raccoon9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Raccoon dog",
+                "picture": "raccoon_dog3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/raccoon_dog3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Radiated tortoise",
+                "picture": "radiated_tortoise1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/radiated_tortoise1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Ragdoll",
+                "picture": "ragdoll3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/ragdoll3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rat",
+                "picture": "rat1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rat1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rattlesnake",
+                "picture": "rattlesnake3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rattlesnake3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Red-handed tamarin",
+                "picture": "red-handed_tamarin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/red-handed_tamarin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Red knee tarantula",
+                "picture": "red_knee_tarantula.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/red_knee_tarantula.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Red panda",
+                "picture": "red_panda5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/red_panda5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Red wolf",
+                "picture": "red_wolf2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/red_wolf2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Reindeer",
+                "picture": "reindeer4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/reindeer4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rhino",
+                "picture": "rhino8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rhino8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "River dolphin",
+                "picture": "river_dolphin4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/river_dolphin4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "River turtle",
+                "picture": "river_turtle2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/river_turtle2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Robin",
+                "picture": "robin5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/robin5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rock hyrax ",
+                "picture": "rock_hyrax_.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rock_hyrax_.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rockhopper penguin ",
+                "picture": "rockhopper_penguin_3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rockhopper_penguin_3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Roseate spoonbill",
+                "picture": "roseate_spoonbill2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/roseate_spoonbill2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Rottweiler",
+                "picture": "rottweiler1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/rottweiler1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Royal penguin",
+                "picture": "royal_penguin.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/royal_penguin.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Russian blue",
+                "picture": "russian_blue3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/R/russian_blue3.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "S",
+        "animals": [
+            {
+                "name": "Sabre toothed tiger ",
+                "picture": "sabre_toothed_tiger_4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sabre_toothed_tiger_4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Saint bernard",
+                "picture": "saint_bernard3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/saint_bernard3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Salamander",
+                "picture": "salamander.png",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/salamander.png",
+                "description": "to-change"
+            },
+            {
+                "name": "Sand lizard",
+                "picture": "sand_lizard2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sand_lizard2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Saola",
+                "picture": "saola.png",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/saola.png",
+                "description": "to-change"
+            },
+            {
+                "name": "Scorpion",
+                "picture": "scorpion2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/scorpion2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Scorpion fish",
+                "picture": "scorpion_fish.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/scorpion_fish.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea dragon",
+                "picture": "sea_dragon5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_dragon5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea lion",
+                "picture": "sea_lion10.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_lion10.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea otter",
+                "picture": "sea_otter4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_otter4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea slug",
+                "picture": "sea_slug6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_slug6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea squirt",
+                "picture": "sea_squirt6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_squirt6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea turtle",
+                "picture": "sea_turtle1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_turtle1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sea urchin",
+                "picture": "sea_urchin2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sea_urchin2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Seahorse",
+                "picture": "seahorse8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/seahorse8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Seal",
+                "picture": "seal6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/seal6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Serval",
+                "picture": "serval7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/serval7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sheep",
+                "picture": "sheep9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sheep9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Shih tzu",
+                "picture": "shih_tzu.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/shih_tzu.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Shrimp",
+                "picture": "shrimp4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/shrimp4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Siamese",
+                "picture": "siamese.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/siamese.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Siamese fighting fish",
+                "picture": "siamese_fighting_fish3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/siamese_fighting_fish3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Siberian",
+                "picture": "siberian.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/siberian.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Siberian husky",
+                "picture": "siberian_husky.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/siberian_husky.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Siberian tiger",
+                "picture": "siberian_tiger1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/siberian_tiger1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Silver dollar",
+                "picture": "silver_dollar1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/silver_dollar1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Skunk",
+                "picture": "skunk6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/skunk6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sloth",
+                "picture": "sloth5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sloth5.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Slow worm",
+                "picture": "slow_worm1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/slow_worm1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Snail",
+                "picture": "snail6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/snail6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Snake",
+                "picture": "snake.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/snake.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Snapping turtle",
+                "picture": "snapping_turtle7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/snapping_turtle7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Snowshoe",
+                "picture": "snowshoe2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/snowshoe2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Snowy owl",
+                "picture": "snowy_owl.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/snowy_owl.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Somali",
+                "picture": "somali4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/somali4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "South china tiger",
+                "picture": "south_china_tiger.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/south_china_tiger.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Spadefoot toad",
+                "picture": "spadefoot_toad2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/spadefoot_toad2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sparrow",
+                "picture": "sparrow8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sparrow8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Spectacled bear",
+                "picture": "spectacled_bear.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/spectacled_bear.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Sperm whale",
+                "picture": "sperm_whale3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/sperm_whale3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Spider monkey",
+                "picture": "spider_monkey.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/spider_monkey.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Spiny dogfish",
+                "picture": "spiny_dogfish.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/S/spiny_dogfish.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "T",
+        "animals": [
+            {
+                "name": "Tang",
+                "picture": "tang3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tang3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tapanuli orang utan",
+                "picture": "tapanuli_orang_utan.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tapanuli_orang_utan.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tapir",
+                "picture": "tapir2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tapir2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tarsier",
+                "picture": "tarsier7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tarsier7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tasmanian devil",
+                "picture": "tasmanian_devil2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tasmanian_devil2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tawny owl",
+                "picture": "tawny_owl1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tawny_owl1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Termite",
+                "picture": "termite3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/termite3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tetra",
+                "picture": "tetra2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tetra2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Thorny devil",
+                "picture": "thorny_devil1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/thorny_devil1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tibetan mastiff",
+                "picture": "tibetan_mastiff.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tibetan_mastiff.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tiffany",
+                "picture": "tiffany1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tiffany1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tiger",
+                "picture": "tiger3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tiger3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tiger salamander",
+                "picture": "tiger_salamander1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tiger_salamander1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tiger shark",
+                "picture": "tiger_shark1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tiger_shark1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tortoise",
+                "picture": "tortoise4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tortoise4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Toucan",
+                "picture": "toucan3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/toucan3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tree frog",
+                "picture": "tree_frog7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tree_frog7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tropicbird",
+                "picture": "tropicbird.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tropicbird.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Tuatara",
+                "picture": "tuatara.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/tuatara.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Turkey",
+                "picture": "turkey3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/turkey3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Turkish angora",
+                "picture": "turkish_angora4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/T/turkish_angora4.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "U",
+        "animals": [
+            {
+                "name": "Uakari ",
+                "picture": "uakari_4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/U/uakari_4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Uguisu",
+                "picture": "uguisu.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/U/uguisu.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Umbrellabird ",
+                "picture": "umbrellabird_5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/U/umbrellabird_5.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "V",
+        "animals": [
+            {
+                "name": "Vampire bat",
+                "picture": "vampire_bat4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/V/vampire_bat4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Vervet monkey ",
+                "picture": "vervet_monkey_9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/V/vervet_monkey_9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Vulture",
+                "picture": "vulture1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/V/vulture1.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "W",
+        "animals": [
+            {
+                "name": "Wallaby",
+                "picture": "wallaby1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wallaby1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Walrus",
+                "picture": "walrus.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/walrus.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Warthog",
+                "picture": "warthog1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/warthog1.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wasp",
+                "picture": "wasp3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wasp3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Water buffalo",
+                "picture": "water_buffalo4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/water_buffalo4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Water dragon",
+                "picture": "water_dragon.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/water_dragon.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Water vole ",
+                "picture": "water_vole_7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/water_vole_7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Weasel ",
+                "picture": "weasel_4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/weasel_4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Welsh corgi",
+                "picture": "welsh_corgi.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/welsh_corgi.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "West highland terrier",
+                "picture": "west_highland_terrier.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/west_highland_terrier.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Western gorilla",
+                "picture": "western_gorilla3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/western_gorilla3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Western lowland gorilla",
+                "picture": "western_lowland_gorilla3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/western_lowland_gorilla3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Whale shark",
+                "picture": "whale_shark.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/whale_shark.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Whippet",
+                "picture": "whippet.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/whippet.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "White faced capuchin",
+                "picture": "white_faced_capuchin6.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/white_faced_capuchin6.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "White rhino ",
+                "picture": "white_rhino_15.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/white_rhino_15.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "White tiger",
+                "picture": "white_tiger2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/white_tiger2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wild boar",
+                "picture": "wild_boar.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wild_boar.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wildebeest",
+                "picture": "wildebeest9.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wildebeest9.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wolf ",
+                "picture": "wolf_7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wolf_7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wolverine",
+                "picture": "wolverine7.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wolverine7.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wombat",
+                "picture": "wombat4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wombat4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Woodlouse",
+                "picture": "woodlouse4.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/woodlouse4.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Woodpecker",
+                "picture": "woodpecker3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/woodpecker3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Woolly mammoth",
+                "picture": "woolly_mammoth2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/woolly_mammoth2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Woolly monkey",
+                "picture": "woolly_monkey3.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/woolly_monkey3.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Wrasse",
+                "picture": "wrasse5.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/W/wrasse5.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "X",
+        "animals": [
+            {
+                "name": "X-ray tetra",
+                "picture": "x-ray_tetra.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/X/x-ray_tetra.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "Y",
+        "animals": [
+            {
+                "name": "Yak",
+                "picture": "yak2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Y/yak2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Yellow-eyed penguin",
+                "picture": "yellow-eyed_penguin2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Y/yellow-eyed_penguin2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Yorkshire terrier",
+                "picture": "yorkshire_terrier1.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Y/yorkshire_terrier1.jpg",
+                "description": "to-change"
+            }
+        ]
+    },
+    {
+        "letter": "Z",
+        "animals": [
+            {
+                "name": "Zebra ",
+                "picture": "zebra_8.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Z/zebra_8.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Zebra shark",
+                "picture": "zebra_shark.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Z/zebra_shark.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Zebu",
+                "picture": "zebu.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Z/zebu.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Zonkey",
+                "picture": "zonkey2.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Z/zonkey2.jpg",
+                "description": "to-change"
+            },
+            {
+                "name": "Zorse",
+                "picture": "zorse.jpg",
+                "url": "https://github.com/filippella/Sample-API-Files/blob/master/images/animals/Z/zorse.jpg",
+                "description": "to-change"
+            }
+        ]
+    }
+]
